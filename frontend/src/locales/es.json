@@ -1,0 +1,48 @@
+{
+  "app": {
+    "title": "SentinelNet",
+    "subtitle": "Plataforma de Monitoreo Defensivo Legal y Soporte de Decisiones",
+    "status": {
+      "connecting": "Conectando al Backend...",
+      "healthy": "SISTEMA EN LÍNEA",
+      "degraded": "SISTEMA DEGRADADO",
+      "offline": "BACKEND NO DISPONIBLE"
+    }
+  },
+  "health": {
+    "title": "Observabilidad del Sistema",
+    "api_status": "Servidor API",
+    "db_status": "Base de Datos",
+    "cpu_usage": "Uso de CPU",
+    "memory_usage": "Uso de Memoria",
+    "uptime": "Tiempo de Actividad",
+    "environment": "Entorno",
+    "last_checked": "Última Comprobación"
+  },
+  "navigation": {
+    "dashboard": "Panel de Control",
+    "monitoring": "Monitoreo en Vivo",
+    "events": "Eventos",
+    "alerts": "Alertas",
+    "devices": "Dispositivos",
+    "sensors": "Sensores",
+    "tracking": "Rastreo",
+    "ai": "Análisis de IA",
+    "risk": "Evaluación de Riesgo",
+    "analytics": "Analítica",
+    "timeline": "Cronología",
+    "network": "Red",
+    "system": "Estado del Sistema",
+    "systemHealth": "Salud del sistema",
+    "audit": "Registros de auditoría",
+    "reports": "Informes",
+    "settings": "Configuración"
+  },
+  "common": {
+    "refresh": "Actualizar",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "simulated": "SIMULADO",
+    "live": "EN VIVO"
+  }
+}

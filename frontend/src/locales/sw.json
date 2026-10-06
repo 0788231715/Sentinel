@@ -1,0 +1,48 @@
+{
+  "app": {
+    "title": "SentinelNet",
+    "subtitle": "Mfumo Halali wa Ufuatiliaji wa Kinga na Usaidizi wa Maamuzi",
+    "status": {
+      "connecting": "Inaunganisha na Backend...",
+      "healthy": "MFUMO UMEWAKA",
+      "degraded": "MFUMO UMEPUNGUZA UWEZO",
+      "offline": "BACKEND HAIFAKI"
+    }
+  },
+  "health": {
+    "title": "Uchambuzi wa Mfumo",
+    "api_status": "Mtumishi wa API",
+    "db_status": "Muunganisho wa Database",
+    "cpu_usage": "Matumizi ya CPU",
+    "memory_usage": "Matumizi ya Kumbukumbu",
+    "uptime": "Muda wa Kufanya Kazi",
+    "environment": "Mazingira",
+    "last_checked": "Mara ya Mwisho Kukaguliwa"
+  },
+  "navigation": {
+    "dashboard": "Dawati Kuu",
+    "monitoring": "Ufuatiliaji wa Moja kwa Moja",
+    "events": "Matukio",
+    "alerts": "Taharifa",
+    "devices": "Vifaa",
+    "sensors": "Sensors",
+    "tracking": "Ufuatiliaji wa Eneo",
+    "ai": "Uchambuzi wa AI",
+    "risk": "Tathmini ya Hatari",
+    "analytics": "Takwimu",
+    "timeline": "Mfuatano wa matukio",
+    "network": "Mtandao",
+    "system": "Afya ya Mfumo",
+    "systemHealth": "Hali ya mfumo",
+    "audit": "Kumbukumbu za ukaguzi",
+    "reports": "Ripoti",
+    "settings": "Mipangilio"
+  },
+  "common": {
+    "refresh": "Hifadhi Upya",
+    "loading": "Inapakia...",
+    "error": "Hitilafu imetokea",
+    "simulated": "ILIPIMWA",
+    "live": "MOJA KWA MOJA"
+  }
+}

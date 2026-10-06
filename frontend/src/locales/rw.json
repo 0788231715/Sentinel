@@ -1,0 +1,48 @@
+{
+  "app": {
+    "title": "SentinelNet",
+    "subtitle": "Urutonde rwo Gucunga no Gufata Ibyemezo mu Bwiteganyirize",
+    "status": {
+      "connecting": "Guhuza na Backend...",
+      "healthy": "SISTEMU IRANGIYE",
+      "degraded": "SISTEMU IRAGOYE",
+      "offline": "BACKEND NTABWO IBONEKA"
+    }
+  },
+  "health": {
+    "title": "Igenzura ry'Inzego z'Isosiyete",
+    "api_status": "Seriveri ya API",
+    "db_status": "Ihuza rya Database",
+    "cpu_usage": "Kugenzura CPU",
+    "memory_usage": "Kugenzura Ububiko",
+    "uptime": "Igihe Imaze Ikora",
+    "environment": "Ahabo Ikorera",
+    "last_checked": "Iheruka Kugenzurwa"
+  },
+  "navigation": {
+    "dashboard": "Ikibiriti Nyamukuru",
+    "monitoring": "Igenzura ry'Aka Kanya",
+    "events": "Ibyabaye",
+    "alerts": "Ibibazo",
+    "devices": "Ibyuma",
+    "sensors": "Sensors",
+    "tracking": "Gukurikirana",
+    "ai": "Ubuhanga bw'Artifisiyeli",
+    "risk": "Igenzura ry'Ibyago",
+    "analytics": "Isesengura",
+    "timeline": "Urutonde rw'igihe",
+    "network": "Urusobe",
+    "system": "Ubuzima bwa Sistemu",
+    "systemHealth": "Ubuzima bwa Sisitemu",
+    "audit": "Inyandiko z'igenzura",
+    "reports": "Raporo",
+    "settings": "Igenamiterere"
+  },
+  "common": {
+    "refresh": "Vugurura",
+    "loading": "Gukuramo amakuru...",
+    "error": "Ikosora ryabayemo",
+    "simulated": "BYAGERYAGEJWE",
+    "live": "BY'AKA KANYA"
+  }
+}

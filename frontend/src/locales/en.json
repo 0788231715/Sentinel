@@ -1,0 +1,53 @@
+{
+  "common": {
+    "welcome": "Welcome to SentinelNet",
+    "search": "Search System...",
+    "refresh": "Refresh",
+    "loading": "Loading...",
+    "error": "Error",
+    "status": "Status",
+    "timestamp": "Timestamp",
+    "actions": "Actions",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View"
+  },
+  "navigation": {
+    "dashboard": "Overview",
+    "monitoring": "Live Monitoring",
+    "events": "Events",
+    "alerts": "Alerts",
+    "devices": "Devices",
+    "sensors": "Sensors",
+    "tracking": "Tracking",
+    "ai": "AI Analytics",
+    "analytics": "Data Analytics",
+    "timeline": "Timeline",
+    "risk": "Risk Assessment",
+    "network": "Network",
+    "systemHealth": "System Health",
+    "audit": "Audit Logs",
+    "reports": "Reports",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Command Center",
+    "subtitle": "Phase 1 Foundation Ready",
+    "activeDevices": "Active Devices",
+    "activeAlerts": "Active Alerts",
+    "systemStatus": "System Status",
+    "lastChecked": "Last Checked"
+  },
+  "system": {
+    "health": "System Health",
+    "operational": "Operational",
+    "degraded": "Degraded",
+    "offline": "Offline",
+    "database": "Database",
+    "environment": "Environment",
+    "version": "Version",
+    "uptime": "Uptime"
+  }
+}
